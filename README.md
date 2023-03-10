@@ -1,7 +1,4 @@
-- Hi 👋, I’m Liam Stafford
-- I’m interested in AI and simulations
-- My goal is to someday develope a simpulation where intelligent life occurs 
-- I'm always trying to learn something new in the programming space in the pursuit to sharpen my skills
+Theres always a kech...
 
 <!---
 k-ech/k-ech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
